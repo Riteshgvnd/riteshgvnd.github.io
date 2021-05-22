@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ritesh Gavande"
 description              : &description "personal description"
 url                      : https://riteshgvnd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ritesh Gavande"
   avatar           : "dp2.jpg"
   bio              : 
   location         : 
@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/ritesh.gvnd"
+  facebook         : "ritesh.gvnd"
   foursquare       :
   github           : 
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/ritesh_gavande/"
+  instagram        : "ritesh_gavande"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
