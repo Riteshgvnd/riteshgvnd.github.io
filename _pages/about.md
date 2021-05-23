@@ -15,7 +15,7 @@ redirect_from:
 
 I am Ritesh, from [Chhindwara](https://en.wikipedia.org/wiki/Chhindwara), a small city in Madhya Pradesh. I completed my B.E. from [SGSITS, Indore](http://www.sgsits.ac.in/) in Electronics & Telecommunication. Currently, I am pursuing M. Tech from Computer Science and Engineering department at [IIT Bombay](https://www.iitb.ac.in/). After coming to IITB I have taken courses in various fields like Machine Learning and Computer Architecture and my M.Tech project topic is also a combination of these two fields, which is  "Developing Machine Learning techniques for improving Cache Performance".
 
-I am part of a reaearch team  **CASPER (Computer Architecture for Security and Performance)**, under the guidance of [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/), our team is working to design advanced techniques to improve system performance. Follow this [link](https://riteshgvnd.github.io/projects/) for my projects and view works being done at [CASPER](https://casper-iitb.github.io/).  
+I am part of a research team  **CASPER (Computer Architecture for Security and Performance)**, under the guidance of [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/), our team is working to design advanced techniques to improve system performance. Follow this [link](https://riteshgvnd.github.io/projects/) for my projects and view works being done at [CASPER](https://casper-iitb.github.io/).  
 
 Apart from that, I am a huge Pink Floyd fan, I also love to travel (who doesn't :P) and I also pass my time reading history and science related articles on internet. 
 
