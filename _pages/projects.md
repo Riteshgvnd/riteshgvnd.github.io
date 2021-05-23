@@ -9,8 +9,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-Projects
-======
 
 1. Driver & Vehicle Safety System
       An Embedded system with GPS interface to locate driver
