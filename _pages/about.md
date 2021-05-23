@@ -18,6 +18,6 @@ I am Ritesh, from [Chhindwara](https://en.wikipedia.org/wiki/Chhindwara), a smal
 
 I am part of **Casper (Computer Architecture for Security and Performance)** research team, working under the guidance of [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/), where our team is working to design advanced techniques to improve system performance.  
 
-Apart from that, I am a huge Pink Floyd fan, I also love to travel (who doesn't :P) and read about random topics on Wikipedia. 
+Apart from that, I am a huge Pink Floyd fan, I also love to travel (who doesn't :P) and I also pass my time reading about topics in history and science on Wikipedia. 
 
 Anyway, please feel free to contact me for any technical or non-technical discussions. 
