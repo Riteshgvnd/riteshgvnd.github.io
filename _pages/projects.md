@@ -26,5 +26,5 @@ author_profile: true
 4.Movie Plot Generator
 ====== 
 * A Deep Learning based model which can generate a small plot or story.
-* Requires a genre as input for genre specific plots.  
+* Plots are Genre specific and model takes genre as the input.  
 * Makes an effective use of GPT-2 transformer.
