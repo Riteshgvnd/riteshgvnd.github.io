@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Systems Engineering at Infosys Ltd, Trivandrum 2017-2019
+* Systems Engineer at Infosys Ltd, Trivandrum 2017-2019
   
 Skills
 ======
@@ -25,5 +25,8 @@ Skills
   * C++
   * Python
   * Java
+* Academic fields
+  * Computer Architecture
+  * Machine Learning
 
 
